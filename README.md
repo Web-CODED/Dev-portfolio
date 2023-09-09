@@ -1,4 +1,7 @@
-# TypeScript Next.js example
+# Developer portfolio
+Here it shows a simple portfolio with type-writing template. I made use of typescript and Next.js libraries in React framework.
+
+## TypeScript Next.js example
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
